@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="TiposDos">
+        <item>primero</item>
+        <item>segundo</item>
+        <item>tercero</item>
+        <item>cuarto</item>
+        <item>quinto</item>
+        <item>sexto</item>
+        <item>Falso</item>
+    </string-array>
+
+</resources>
